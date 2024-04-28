@@ -10,23 +10,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348107582855"
-global.ownername = "メ メ 𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️"
-global.ytname = "YT: Xeon"
-global.socialm = "GitHub: Feranmi245"
+global.ownernomer = "‪2349048288932‬"
+global.ownername = "EDNUT HIMSELF"
+global.ytname = "YT: Ednut001"
+global.socialm = "GitHub: Ednut001"
 global.location = "nigeria, lagos, abuja"
 
-global.ownernumber = '2348107582855'  //creator number
-global.ownername = '𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️' //owner name
-global.botname = 'メ メ 𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️' //name of the bot
+global.ownernumber = '‪2349048288932‬'  //creator number
+global.ownername = 'EDNUT' //owner name
+global.botname = 'THA IKA X' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By your mom'
-global.author = 'メ メ 𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️'
+global.author = 'ednut😈'
 
 //console view/theme
-global.themeemoji = '✝️'
-global.wm = "Hermione Bot Inc."
+global.themeemoji = '😈'
+global.wm = "Ednut Bot Inc."
 
 //theme link
 global.link = ''
@@ -37,8 +37,8 @@ global.prefa = ['!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
-global.autoread = false //auto read messages
+global.autorecordtype = true //auto typing + recording
+global.autoread = true //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = false //auto view status/story
