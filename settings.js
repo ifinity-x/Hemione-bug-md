@@ -10,14 +10,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "6283817987365"
+global.ownernomer = "2347039570336"
 global.ownername = "✞𝑩𝒐𝒚ꨄ𝑴𝒊𝒓𝒂𝒉 ✞"
 global.ytname = "YT: Ednut001"
 global.socialm = "GitHub: Ednut001"
 global.location = "nigeria, lagos, abuja"
 
-global.ownernumber = '6283817987365' //creator number
-global.ownername = 'EDNUT' //owner name
+global.ownernumber = '27630425578,2347012729739,2347039570336' //creator number
+global.ownername = 'EXCEL' //owner name
 global.botname = 'THA IKA X' //name of the bot
 
 //sticker details
